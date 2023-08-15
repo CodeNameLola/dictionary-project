@@ -8,7 +8,7 @@
 
 .Dictionary input {
   width: 50%;
-  padding: 5px 10px;
+  padding: 8px 10px;
   border: 1px solid #ddd;
   border-radius: 6px;
   color: #333;
@@ -17,4 +17,9 @@
 .Dictionary .hint {
   font-size: 11px;
   margin-top: 5px;
+  text-align: center;
+}
+
+.Dictionary form {
+  text-align: center;
 }

@@ -15,3 +15,10 @@ a {
   display: block;
   margin: 0 auto;
 }
+
+.App h1 {
+  font-size: 60px;
+  line-height: 90px;
+  text-align: center;
+  font-family: "Bricolage Grotesque", sans-serif;
+}
