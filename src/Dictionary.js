@@ -25,7 +25,7 @@ export default function Dictionary(props) {
     axios.get(apiUrl).then(handleDictionaryResponse);
 
     let scApiKey = "20a7b4d455458e7ffo4952342tabf625";
-    let scApiUrl = `https://api.shecodes.io/images/v1/search?query={advocate}&key=20a7b4d455458e7ffo4952342tabf625`;
+    let scApiUrl = `https://api.shecodes.io/images/v1/search?query=${keyword}&key=20a7b4d455458e7ffo4952342tabf625`;
 
     axios.get(scApiUrl, { scApiKey }).then(handleScResponse);
   }
