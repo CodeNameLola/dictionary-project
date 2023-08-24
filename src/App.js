@@ -16,12 +16,11 @@ export default function App() {
         <footer className="text-center">
           Coded by Lola O.
           <br />
-          logo credit:
           <a
             href="https://www.outsourcedpharma.com/doc/navigating-regulatory-guidelines-for-effective-tech-transfer-0001"
             target="blank"
           >
-            picture
+            logo credit
           </a>
         </footer>
       </div>
