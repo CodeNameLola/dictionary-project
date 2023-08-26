@@ -1,22 +1,10 @@
 .Phonetic {
   margin: 20px 0;
   height: 60px;
-}
-
-.Phonetic a {
-  border: 1px solid #ddd;
-  text-decoration: none;
-  padding: 10px 20px;
-  margin-right: 10px;
-  border-radius: 20px;
-  transition: all 150ms ease-in-out;
-}
-
-.Phonetic a:hover {
-  background: #71cadd;
-  color: white;
+  margin-bottom: 50px;
 }
 
 .Phonetic .text {
+  margin-left: 40px;
   opacity: 0.9;
 }
