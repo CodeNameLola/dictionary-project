@@ -5,6 +5,7 @@
 }
 
 .Phonetic .text {
-  margin-left: 40px;
   opacity: 0.9;
+  display: flex;
+  align-items: center;
 }
